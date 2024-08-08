@@ -14,9 +14,10 @@ I'm a developer interested in Software, Web Development, and more!
 - [HTML/CSS Learning Journey](https://github.com/yourusername/htmlcss-learning)
 
 ### Connect with Me
-- [Instagram](https://instagram.com/shazadar)
-- [Website](https://www.zeddyhere.com)
-- [Facebook](https://facebook.com/shazadarshad)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shazadar)
+- [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.zeddyhere.com)
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZeddyAr)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shazadarshad)
 
 ![Zeddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shazadarshad&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shazadarshad&layout=compact&theme=radical)
