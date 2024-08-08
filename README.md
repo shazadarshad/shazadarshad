@@ -17,14 +17,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="border-radius: 12px; border: 2px solid #ED8B00; transition: transform 0.3s; margin: 5px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
 
-<!-- Projects Section -->
-<h2 style="font-family: 'Poppins', sans-serif; color: #444;">Projects</h2>
-<ul style="font-family: 'Poppins', sans-serif; font-size: 18px; color: #666;">
-  <li><a href="https://github.com/yourusername/ecommerce-site" style="color: #1d72b8; text-decoration: none; transition: color 0.3s;" onmouseover="this.style.color='#0a58ca'" onmouseout="this.style.color='#1d72b8'">E-commerce Site</a></li>
-  <li><a href="https://github.com/yourusername/java-learning" style="color: #1d72b8; text-decoration: none; transition: color 0.3s;" onmouseover="this.style.color='#0a58ca'" onmouseout="this.style.color='#1d72b8'">Java Learning Journey</a></li>
-  <li><a href="https://github.com/yourusername/python-learning" style="color: #1d72b8; text-decoration: none; transition: color 0.3s;" onmouseover="this.style.color='#0a58ca'" onmouseout="this.style.color='#1d72b8'">Python Learning Journey</a></li>
-  <li><a href="https://github.com/yourusername/htmlcss-learning" style="color: #1d72b8; text-decoration: none; transition: color 0.3s;" onmouseover="this.style.color='#0a58ca'" onmouseout="this.style.color='#1d72b8'">HTML/CSS Learning Journey</a></li>
-</ul>
 
 <!-- Connect with Me Section -->
 <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Connect with Me</h2>
@@ -46,7 +38,6 @@
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shazadarshad&show_icons=true&theme=radical" alt="Zeddy's GitHub stats" style="border-radius: 12px; border: 2px solid #eee;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazadarshad&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 12px; border: 2px solid #eee;"/>
 </div>
 
 <!-- Use comments to explain the purpose of your README -->
