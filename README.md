@@ -1,4 +1,4 @@
-## Hi there, I'm Zeddy 👋
+## Hi there, I'm Zeddy <img src="https://i.imgur.com/SkDOFg9.png" alt="Logo" width="30" height="30" align="center" />
 I'm a developer interested in Software, Web Development, and more!
 
 ### Skills and Technologies
