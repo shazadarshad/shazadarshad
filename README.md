@@ -1,6 +1,6 @@
 <!-- Use HTML for better styling and custom buttons -->
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 36px; color: #333;">
-  Hi there, I'm Zeddy
+  Hi there, I'm Shazad
   <img src="https://i.imgur.com/SkDOFg9.png" alt="Logo" width="40" height="40" align="top" style="margin-left: 10px;" />
 </h1>
 
@@ -35,7 +35,7 @@
   <a href="https://www.zeddyhere.com" style="display: inline-block; margin: 5px;">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" style="border-radius: 12px; border: 2px solid #000000; transition: transform 0.3s;"/>
   </a>
-  <a href="https://t.me/ZeddyAr" style="display: inline-block; margin: 5px;">
+  <a href="https://t.me/ShazadAr" style="display: inline-block; margin: 5px;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="border-radius: 12px; border: 2px solid #2CA5E0; transition: transform 0.3s;"/>
   </a>
   <a href="https://www.facebook.com/shazadarshad" style="display: inline-block; margin: 5px;">
