@@ -1,5 +1,8 @@
 <!-- Use HTML for better styling and custom buttons -->
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 36px; color: #333;">Hi there, I'm Zeddy <img src="https://i.imgur.com/SkDOFg9.png" alt="Logo" width="30" height="30" align="middle" /></h1>
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 36px; color: #333;">
+  Hi there, I'm Zeddy
+  <img src="https://i.imgur.com/SkDOFg9.png" alt="Logo" width="40" height="40" align="top" style="margin-left: 10px;" />
+</h1>
 
 <p align="center" style="font-family: 'Poppins', sans-serif; font-size: 20px; color: #555;">
   I'm a developer interested in Software, Web Development, and more!
