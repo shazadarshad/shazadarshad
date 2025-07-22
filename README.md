@@ -46,7 +46,27 @@
   </p>
 </div>
 
-<!-- GitHub Stats -->
+<!-- Certifications Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shazadarshad&show_icons=true&theme=radical" alt="Zeddy's GitHub stats" style="border-radius: 12px; border: 2px solid #eee;" />
+  <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Certifications</h2>
+  <ul style="list-style: none; padding: 0; font-size: 18px; font-family: 'Poppins', sans-serif; text-align: left; display: inline-block;">
+    
+    <li style="margin: 15px 0;">
+      <a href="https://www.coursera.org/account/accomplishments/verify/OO3KI0IE7DK9" target="_blank" style="text-decoration: none; color: #FFA000;">
+        🎖️ <strong>Getting Started with Git and GitHub</strong>
+      </a><br />
+      🏢 IBM<br />
+      📅 July 2025
+    </li>
+
+    <li style="margin: 15px 0;">
+      <a href="https://www.coursera.org/account/accomplishments/verify/AY0D9033OEAF" target="_blank" style="text-decoration: none; color: #1A73E8;">
+        🎖️ <strong>Introduction to HTML, CSS, & JavaScript</strong>
+      </a><br />
+      🏢 IBM<br />
+      📅 July 2025
+    </li>
+
+  </ul>
 </div>
+
