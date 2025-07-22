@@ -22,28 +22,6 @@
   </p>
 </div>
 
-<!-- Connect with Me Section -->
-<div align="center">
-  <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Connect with Me</h2>
-  <p>
-    <a href="mailto:hello@zeddyhere.com" style="margin: 5px;">
-      <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
-    </a>
-    <a href="https://instagram.com/shazadar" style="margin: 5px;">
-      <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-    </a>
-    <a href="https://linkedin.com/in/shazadarshad" style="margin: 5px;">
-      <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-    </a>
-    <a href="https://t.me/ShazadAr" style="margin: 5px;">
-      <img src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram" />
-    </a>
-    <a href="https://www.facebook.com/shazadarshad" style="margin: 5px;">
-      <img src="https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
-    </a>
-  </p>
-</div>
-
 <!-- Certifications Section -->
 <div align="center">
   <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Certifications</h2>
@@ -69,4 +47,26 @@
       </td>
     </tr>
   </table>
+</div>
+
+<!-- Connect with Me Section -->
+<div align="center">
+  <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Connect with Me</h2>
+  <p>
+    <a href="mailto:hello@zeddyhere.com" style="margin: 5px;">
+      <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
+    </a>
+    <a href="https://instagram.com/shazadar" style="margin: 5px;">
+      <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+    </a>
+    <a href="https://linkedin.com/in/shazadarshad" style="margin: 5px;">
+      <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/ShazadAr" style="margin: 5px;">
+      <img src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram" />
+    </a>
+    <a href="https://www.facebook.com/shazadarshad" style="margin: 5px;">
+      <img src="https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
+    </a>
+  </p>
 </div>
