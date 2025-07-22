@@ -12,7 +12,6 @@
 </div>
 
 <!-- Skills and Technologies Section -->
-<!-- Skills and Technologies Section -->
 <div align="center">
   <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Skills and Technologies</h2>
   <p>
@@ -22,7 +21,6 @@
     <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=OpenJDK&logoColor=ED8B00" alt="Java" style="margin: 5px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
   </p>
 </div>
-
 
 <!-- Connect with Me Section -->
 <div align="center">
@@ -49,24 +47,26 @@
 <!-- Certifications Section -->
 <div align="center">
   <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Certifications</h2>
-  <ul style="list-style: none; padding: 0; font-size: 18px; font-family: 'Poppins', sans-serif; text-align: left; display: inline-block;">
-    
-    <li style="margin: 15px 0;">
-      <a href="https://www.coursera.org/account/accomplishments/verify/OO3KI0IE7DK9" target="_blank" style="text-decoration: none; color: #FFA000;">
-        🎖️ <strong>Getting Started with Git and GitHub</strong>
-      </a><br />
-      🏢 IBM<br />
-      📅 July 2025
-    </li>
-
-    <li style="margin: 15px 0;">
-      <a href="https://www.coursera.org/account/accomplishments/verify/AY0D9033OEAF" target="_blank" style="text-decoration: none; color: #1A73E8;">
-        🎖️ <strong>Introduction to HTML, CSS, & JavaScript</strong>
-      </a><br />
-      🏢 IBM<br />
-      📅 July 2025
-    </li>
-
-  </ul>
 </div>
-
+<div align="center">
+  <table style="font-family: 'Poppins', sans-serif; font-size: 16px;">
+    <tr>
+      <td align="left" style="padding: 10px 20px;">
+        <a href="https://www.coursera.org/account/accomplishments/verify/OO3KI0IE7DK9" target="_blank" style="text-decoration: none; color: #FFA000;">
+          🎖️ <strong>Getting Started with Git and GitHub</strong>
+        </a><br />
+        🏢 IBM<br />
+        📅 July 2025
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="padding: 10px 20px;">
+        <a href="https://www.coursera.org/account/accomplishments/verify/AY0D9033OEAF" target="_blank" style="text-decoration: none; color: #1A73E8;">
+          🎖️ <strong>Introduction to HTML, CSS, & JavaScript</strong>
+        </a><br />
+        🏢 IBM<br />
+        📅 July 2025
+      </td>
+    </tr>
+  </table>
+</div>
