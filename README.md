@@ -12,15 +12,17 @@
 </div>
 
 <!-- Skills and Technologies Section -->
+<!-- Skills and Technologies Section -->
 <div align="center">
   <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Skills and Technologies</h2>
   <p>
-    <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=ED8B00" alt="Java" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=E34F26" alt="HTML5" style="margin: 5px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+    <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS3" style="margin: 5px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+    <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=3776AB" alt="Python" style="margin: 5px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+    <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=OpenJDK&logoColor=ED8B00" alt="Java" style="margin: 5px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
   </p>
 </div>
+
 
 <!-- Connect with Me Section -->
 <div align="center">
