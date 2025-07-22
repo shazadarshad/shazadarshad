@@ -27,7 +27,7 @@
   <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Certifications</h2>
 </div>
 <div align="center">
-  <table style="font-family: 'Poppins', sans-serif; font-size: 16px;">
+  <table style="font-family: 'Poppins', sans-serif; font-size: 16px; border-radius:10px;">
     <tr>
       <td align="left" style="padding: 10px 20px;">
         <a href="https://www.coursera.org/account/accomplishments/verify/OO3KI0IE7DK9" target="_blank" style="text-decoration: none; color: #FFA000;">
