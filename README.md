@@ -1,91 +1,68 @@
-<!-- Professional GitHub Profile README -->
-
 <div align="center">
-  <h1 style="font-family: 'Poppins', sans-serif; font-size: 36px; color: #333;">
-    Hi there, I'm Shazad
-    <img src="https://i.imgur.com/SkDOFg9.png" alt="Logo" width="50" height="50" style="margin-left: 10px; vertical-align: middle;" />
-  </h1>
 
-  <p style="font-family: 'Poppins', sans-serif; font-size: 20px; color: #555;">
-    I'm a developer passionate about Software, Web Development, and continuous learning.
-  </p>
+# Hi there, I'm Shazad 👋
+
+### Aspiring Developer | Python | Web Development | AI
+
+I'm passionate about technology, software development, and continuous learning.  
+Currently building my skills through practical projects, online learning, and self-directed development.
+
 </div>
 
-<!-- Skills and Technologies Section -->
+---
+
+## 🛠️ Skills & Technologies
+
 <div align="center">
-  <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Skills and Technologies</h2>
-  <p>
-    <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=E34F26" alt="HTML5" style="margin: 5px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
-    <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS3" style="margin: 5px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
-    <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=3776AB" alt="Python" style="margin: 5px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
-  </p>
+
+<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+
 </div>
 
-<!-- Certifications Section -->
-<div align="center">
-  <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Certifications</h2>
-</div>
+---
+
+## 🚀 Featured Project
+
+### Neurativo — AI-Powered Learning Platform
+
+An AI-powered learning platform designed to help students interact with and learn from educational content.
+
+- AI-powered summaries and notes
+- Content-based question answering
+- Educational content processing
+- Product design and feature development
+- AI integrations and testing
+
+> Built as an AI-assisted development project with a focus on learning, experimentation, and practical application.
+
+---
+
+## 📜 Certifications
+
+| Certification | Organization | Issued |
+|---|---|---|
+| **Python – Beginner Level – Advanced** | BrightCHAMPS | April 2022 |
+| **Web Development – Advanced** | BrightCHAMPS | June 2022 |
+| **Introduction to HTML, CSS, & JavaScript** | IBM – Coursera | July 2025 |
+| **Introduction to Databases** | Meta – Coursera | July 2025 |
+| **Getting Started with Git and GitHub** | IBM – Coursera | July 2025 |
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
-  <table style="font-family: 'Poppins', sans-serif; font-size: 16px; border-radius:10px;">
 
-    <tr>
-      <td align="left" style="padding: 10px 20px;">
-        🎖️ <strong>Python – Beginner Level – Advanced</strong><br />
-        🏢 BrightCHAMPS<br />
-        📅 April 2022
-      </td>
-    </tr>
+<a href="mailto:shazad.arshad189@gmail.com">
+<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" />
+</a>
 
-    <tr>
-      <td align="left" style="padding: 10px 20px;">
-        🎖️ <strong>Web Development – Advanced</strong><br />
-        🏢 BrightCHAMPS<br />
-        📅 June 2022
-      </td>
-    </tr>
+<a href="https://linkedin.com/in/shazadarshad">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
 
-    <tr>
-      <td align="left" style="padding: 10px 20px;">
-        <a href="https://www.coursera.org/account/accomplishments/verify/AY0D9033OEAF" target="_blank" style="text-decoration: none; color: #1A73E8;">
-          🎖️ <strong>Introduction to HTML, CSS, & JavaScript</strong>
-        </a><br />
-        🏢 IBM<br />
-        📅 July 2025
-      </td>
-    </tr>
-
-    <tr>
-      <td align="left" style="padding: 10px 20px;">
-        🎖️ <strong>Introduction to Databases</strong><br />
-        🏢 Meta<br />
-        📅 July 2025
-      </td>
-    </tr>
-
-    <tr>
-      <td align="left" style="padding: 10px 20px;">
-        <a href="https://www.coursera.org/account/accomplishments/verify/OO3KI0IE7DK9" target="_blank" style="text-decoration: none; color: #FFA000;">
-          🎖️ <strong>Getting Started with Git and GitHub</strong>
-        </a><br />
-        🏢 IBM<br />
-        📅 July 2025
-      </td>
-    </tr>
-
-  </table>
-</div>
-
-<!-- Connect with Me Section -->
-<div align="center">
-  <h2 style="font-family: 'Poppins', sans-serif; color: #444;">Connect with Me</h2>
-  <p>
-    <a href="mailto:shazad.arshad189@gmail.com" style="margin: 5px;">
-      <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
-    </a>
-
-    <a href="https://linkedin.com/in/shazadarshad" style="margin: 5px;">
-      <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-    </a>
-  </p>
 </div>
