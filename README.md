@@ -2,10 +2,10 @@
 
 # Hi there, I'm Shazad 👋
 
-### Aspiring Developer | Python | Web Development | AI
+### Aspiring Developer
 
-I'm passionate about technology, software development, and continuous learning.  
-Currently building my skills through practical projects, online learning, and self-directed development.
+I'm passionate about technology, AI and software development.  
+Currently building my skills through practical projects and online learning.
 
 </div>
 
@@ -32,12 +32,10 @@ Currently building my skills through practical projects, online learning, and se
 An AI-powered learning platform designed to help students interact with and learn from educational content.
 
 - AI-powered summaries and notes
-- Content-based question answering
+- Live Lecture Assistance
 - Educational content processing
-- Product design and feature development
-- AI integrations and testing
 
-> Built as an AI-assisted development project with a focus on learning, experimentation, and practical application.
+> Built as an AI-assisted project with the focus of learning, experimentation, and practical application.
 
 ---
 
